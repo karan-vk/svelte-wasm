@@ -1,10 +1,18 @@
-# Svelte + Vite
+# Svelte + Vite + Wasm
 
 This template should help get you started developing with Svelte in Vite.
 
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode).
+
+## Add new crates
+
+### Step 1 
+
+add the crate name to `.rsw.json` file 
+
+add the crate name to `vite.config.json` 
 
 ## Need an official Svelte framework?
 
