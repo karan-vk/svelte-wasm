@@ -1,0 +1,18 @@
+{
+  "name": "sve",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview",
+    "rsw:build": "rsw && npm run build"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^1.0.0-next.30",
+    "svelte": "^3.44.1",
+    "vite": "^2.6.13",
+    "vite-plugin-rsw": "^1.10.0"
+  },
+  "dependencies": {}
+}
